@@ -1,0 +1,26 @@
+#head{
+	padding-top:30px;
+}
+
+#screen{
+	width: 650px;
+	height: 550px;
+	border: 1px solid;
+	color:#FFFFFF;
+	background-image: url("test.png");
+	background-repeat: repeat;
+	background-attachment: absolute;
+	background-position: center;
+}
+
+#nasa{
+	padding-top:25px;
+}
+
+#start{
+	padding-top:75px;
+}
+
+#page2{
+	background-image: url("scene1.png")
+}
